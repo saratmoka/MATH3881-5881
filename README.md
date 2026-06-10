@@ -4,7 +4,7 @@ This repository contains lecture notes, Jupyter notebooks, and related materials
 
 ## Course Overview
 
-MATH3881/5881 develops the statistical and mathematical theory underpinning modern machine learning, alongside the algorithms and techniques used in practice.
+MATH3881/5881 develops the statistical and mathematical theory underpinning modern machine learning, alongside the algorithms and techniques used in practice. Weeks 1 - 5 closely follow the book <a href="https://deeplearningmath.org/" target="_blank" rel="noopener"><em>Mathematical Engineering of Deep Learning</em></a> by Liquet, Moka, and Nazarathy (2024), freely available online and recommended as the primary text for this part of the course.
 
 ## Weekly Topics
 
