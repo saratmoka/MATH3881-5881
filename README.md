@@ -32,9 +32,10 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
   - ✅ <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_4_Exercises_Solutions.pdf" target="_blank" rel="noopener">Exercise Solutions</a> | ✅ Theory Tutorial Solutions | ✅ Practice Tutorial Solutions
   - 📑 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_4_Computational_Graph_of_FNN_Supplement.pdf" target="_blank" rel="noopener">Supplement (optional): Computational Graph of FNN</a>
 - **Week 5**: Convolutional Neural Networks
-  - 📝 Lecture Notes
+  - 📝 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_5_Convolutional_Neural_Networks.pdf" target="_blank" rel="noopener">Lecture Notes</a>
   - 🎓 Theory Tutorial | 💻 Practice Tutorial
   - ✅ Exercise Solutions | ✅ Theory Tutorial Solutions | ✅ Practice Tutorial Solutions
+  - 📑 <a href="https://raw.githubusercontent.com/saratmoka/MATH3881-5881/main/lectures/MATH3881-5881_Lec_5_Backpropagation_in_CNNs_Supplement.pdf" target="_blank" rel="noopener">Supplement (optional): Backpropagation in CNNs</a>
 
 - **Week 6**: Break (no lectures)
 
